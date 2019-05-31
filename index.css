@@ -1,0 +1,115 @@
+* {
+    color: #22292F;
+  }
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+main {
+  margin: 5rem auto 0;
+  max-width: 600px;
+}
+
+.progress-trackers {
+  display: flex;
+  justify-content: space-between;
+}
+
+.progress-tracker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.progress-tracker span {
+  padding: 10px 15px;
+  background: #8795a1;
+  color: white;
+  border-radius: 50%;
+  font-size: 21px;
+  width: 20px;
+  text-align: center;
+}
+
+.progress-tracker h2 {
+  text-transform: uppercase;
+  color: #8795a1;
+  font-size: 16px;
+  text-align: center;
+}
+
+.active-tracker {
+  color: #3182ce;
+}
+
+.active-tracker span {
+  background: #3182ce;
+}
+  .join-us {
+      font-family: Lato;
+      margin: 20px 0;
+      font-size: 35px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+.form-field label {
+  margin-bottom: .5rem;
+}
+
+.form-field input,
+.form-field select,
+.form-field textarea {
+  border: 0;
+  background: #DAE1E7;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 3px;
+}
+
+
+
+
+
+
+
+.sign-up {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.container header nav a {
+  margin: 0 10px;
+ padding: 20px;
+  display: flex row;
+  justify-content: center;
+   margin-bottom: 20px;
+}
+
+
+  
+  
+
+#Next {
+ background-color: #bbb;
+ padding: .5em;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ border-radius: 6px;
+ color: #fff;
+ font-family: 'Oswald';
+ font-size: 20px;
+ text-decoration: none;
+ border: none;
+}
+
+
+
+
+
